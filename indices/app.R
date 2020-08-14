@@ -13,7 +13,7 @@ library(geobr)
 library(shiny)
 
 #Lê CSV com indices dos municípios do Rio de Janeiro
-df_indice <- read_csv2("../data/dados-rj.csv", col_names = TRUE,
+df_indice <- read_csv2("data/dados-rj.csv", col_names = TRUE,
                        locale = locale(encoding = "ISO-8859-1"), col_types = NULL) %>% 
   rename(code_muni = codigo_municipio) %>% 
   mutate(area_log=log1p(area)) %>% 

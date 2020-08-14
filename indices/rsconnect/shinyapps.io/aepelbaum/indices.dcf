@@ -1,0 +1,12 @@
+name: indices
+title: indices
+username:
+account: aepelbaum
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2671782
+bundleId: 3517599
+url: https://aepelbaum.shinyapps.io/indices/
+when: 1597439306.89717
+asMultiple: FALSE
+asStatic: FALSE
