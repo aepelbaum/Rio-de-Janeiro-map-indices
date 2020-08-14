@@ -1,0 +1,12 @@
+name: municipios-indices
+title: municipios-indices
+username:
+account: aepelbaum
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2671608
+bundleId: 3517423
+url: https://aepelbaum.shinyapps.io/municipios-indices/
+when: 1597436114.06817
+asMultiple: FALSE
+asStatic: FALSE
